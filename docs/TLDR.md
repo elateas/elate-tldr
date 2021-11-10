@@ -8,9 +8,9 @@
 Du ønsker deg en trygg arbeidsgiver, som gir deg mye frihet. Hvor du kan være med å påvirke konsulentbransjen positivt. Du ønsker en rettferdig lønn, et sosialt miljø med fokus på kompetanseheving og -deling.
 
 ## Lønnen i Elate
-Elate har provisjonsbasert lønn. Regneeksempel:
+Elate har provisjonsbasert lønn. 
 
-| |
+| Regneeksempel: |
 |:--|
 | Timepris: 1150kr eks mva |
 |  Antall timer fakturert (år): 1650 |
@@ -50,7 +50,9 @@ Dersom en ansatt ønsker å bidra innen en eller flere av kjerneprosessene i Ela
 # Rekrutteringsbonus:
 I Elate tror vi på nettverksrekruttering. Det er de ansatte som best vet hvem som burde bli våre nye kollegaer. Tips som fører til ansettelse belønnes med 50’000kr brutto bonus, samt tilbud om å kjøpe 1% av aksjene i Elate.
 
->Vi er i dag 14 konsulenter i Elate og vi planlegger å stoppe rekruttering et sted mellom 30 og 40 konsulenter. For oss er det viktig at man kjenner alle i bedriften da vi mener at det er mer givende og forenkler kompetansedeling mellom konsulenter. Det haster ikke, det viktige er at det er de riktige personene som begynner i Elate -elate.no
+>Vi er i dag 14 konsulenter i Elate og vi planlegger å stoppe rekruttering et sted mellom 30 og 40 konsulenter. For oss er det viktig at man kjenner alle i bedriften da vi mener at det er mer givende og forenkler kompetansedeling mellom konsulenter. Det haster ikke, det viktige er at det er de riktige personene som begynner i Elate 
+>
+>-elate.no
 
 *Les mer på [https://phb.elate.no/#/articles/rekrutteringsbonus](https://phb.elate.no/#/articles/rekrutteringsbonus)*
 

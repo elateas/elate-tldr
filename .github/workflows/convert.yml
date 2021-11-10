@@ -28,10 +28,6 @@ jobs:
           image_import: ./images
           # Default is true, can set to false to only get PDF files
           build_html: false
-      - uses: actions/upload-artifact@v1
-        with:
-          name: docs
-          path: pdfs
       - name: Commit files # commit the pdfs folder
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -42,4 +38,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
           force: true

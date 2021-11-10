@@ -77,4 +77,3 @@ i Elate med tilhørende avtalegjennomgang.
 
 
 #### Les mer på [elate.no](https://elate.no) og [phb.elate.no](https://phb.elate.no)
-

@@ -20,7 +20,7 @@ Elate har provisjonsbasert lønn.
 *Les mer på [https://phb.elate.no/#/articles/lonn-og-kompensasjon](https://phb.elate.no/#/articles/lonn-og-kompensasjon)*
 
 # Bonus i Elate
-Av årsresultatet settes av til egenkapital for å opprettholde 20%. Av resterende går 70% til bonus, og 30% til utbytte. Alle får samme bonus per måned ansatt det året.
+Av årsresultatet settes noe av til egenkapital for å opprettholde 20%. Av resterende går 70% til bonus, og 30% til utbytte. Alle får samme bonus per måned ansatt det året.
 
 Historisk bonusbetaling (fullt år):
 
@@ -65,7 +65,7 @@ Ansatte i foreldrepermisjon får tilskudd på ca 21’000 i måneden (på toppen
 Kompetanse er selve kjernen i Elate, derfor legger vi stor vekt i å innhente og bygge kompetanse. Elate legger opp til at kompetanse kan innhentes i flere typer arenaer, kursing, summits, konferanser, problemløsning i gruppe og fagdager.
 
 # Sosial, lønningspils, gaming, kontoret
-Å ha sosiale aktiviteter er en enklere måte å utbytte erfaringer og lære kjenne hverandre. Derfor har vi flere typer av sosiale aktiviteter i Elate der hensikten er å bli bedre kjent og ha det gøy.
+Å ha sosiale aktiviteter er en hyggelig og enkel måte å dele erfaringer på, og for å bli bedre kjent. Derfor har vi flere ulike sosiale aktiviteter i Elate der hensikten er å lære hverandre å kjenne og ha det gøy.
 
 # Veien videre
 Vår prosess er enkel:

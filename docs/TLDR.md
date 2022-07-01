@@ -27,8 +27,9 @@ Historisk bonusbetaling (fullt år):
 | År | Utbetaling |
 |:--|:--|
 | 2018 | 78’500 |
-| 2019 | 72’400 |
-| 2020 | 66’000 |
+| 2019 | 82’600 |
+| 2020 | 77’900 |
+| 2021 | 156’000 |
 
 *Les mer på [https://phb.elate.no/#/articles/lonn-og-kompensasjon?id=bonus](https://phb.elate.no/#/articles/lonn-og-kompensasjon?id=bonus)*
 
